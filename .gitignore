@@ -3,3 +3,6 @@ logs
 yolov4.weights
 resultado.avi
 video_teste02.mp4
+coco.names
+yolov4.cfg
+video_out.avi
